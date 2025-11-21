@@ -11,7 +11,7 @@
 * [🔑 Cómo Vincular FiveM con Steam (2025): Guía y Solución de Errores "Steam Identifier"](errores-comunes/como-vincular-fivem-con-steam-2025-guia-y-solucion-de-errores-steam-identifier.md)
 * [🔗 Cómo Vincular Discord con FiveM (2025): Guía para Whitelists y Roles](errores-comunes/como-vincular-discord-con-fivem-2025-guia-para-whitelists-y-roles.md)
 * [📡 Errores de Ingreso en FiveM (2025): Soluciones para "Connection Failed" y Crasheos](errores-comunes/errores-de-ingreso-en-fivem-2025-soluciones-para-connection-failed-y-crasheos.md)
-* [🌐 Errores de desconexión](errores-comunes/errores-de-desconexion.md)
+* [🌐 Solución a Errores de Desconexión en FiveM (2025): Caídas, Timeout y Network Interrupt](errores-comunes/solucion-a-errores-de-desconexion-en-fivem-2025-caidas-timeout-y-network-interrupt.md)
 
 ## REDES SOCIALES
 
