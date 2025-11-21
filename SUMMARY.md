@@ -13,9 +13,9 @@
 * [📡 Errores de Ingreso en FiveM (2025): Soluciones para "Connection Failed" y Crasheos](errores-comunes/errores-de-ingreso-en-fivem-2025-soluciones-para-connection-failed-y-crasheos.md)
 * [🌐 Solución a Errores de Desconexión en FiveM (2025): Caídas, Timeout y Network Interrupt](errores-comunes/solucion-a-errores-de-desconexion-en-fivem-2025-caidas-timeout-y-network-interrupt.md)
 
-## Group 1
+## Utilidades
 
-* [Cómo poner mods gráficos en FiveM: Guía completa 2025 paso a paso](group-1/como-poner-mods-graficos-en-fivem-guia-completa-2025-paso-a-paso.md)
+* [Cómo poner mods gráficos en FiveM: Guía completa 2025 paso a paso](utilidades/como-poner-mods-graficos-en-fivem-guia-completa-2025-paso-a-paso.md)
 
 ## REDES SOCIALES
 
