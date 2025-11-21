@@ -1,12 +1,11 @@
 ---
-icon: sunglasses
+description: >-
+  Aprende a instalar mods gráficos en FiveM paso a paso. Mejora los gráficos de
+  GTA V con esta guía actualizada y optimizada para evitar errores y maximizar
+  el rendimiento de tu PC.
 ---
 
-# Cómo poner mods gráficos en FiveM: Guía completa 2025 paso a paso
-
-
-
-***
+# 👓 Cómo poner mods gráficos en FiveM: Guía completa 2025 paso a paso
 
 ### Introducción a los mods gráficos en FiveM <a href="#introduccin-a-los-mods-grficos-en-fivem" id="introduccin-a-los-mods-grficos-en-fivem"></a>
 

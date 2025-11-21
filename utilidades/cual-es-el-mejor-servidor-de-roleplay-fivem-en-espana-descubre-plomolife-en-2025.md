@@ -1,12 +1,11 @@
 ---
-icon: star
+description: >-
+  Descubre por qué Plomolife es el mejor servidor de roleplay FiveM en España
+  este 2025. Sumérgete en un roleplay serio, estable y con comunidad activa para
+  disfrutar GTA V al máximo.
 ---
 
-# ¿Cuál es el mejor servidor de roleplay FiveM en España? Descubre Plomolife en 2025
-
-
-
-***
+# 🌟 ¿Cuál es el mejor servidor de roleplay FiveM en España? Descubre Plomolife en 2025
 
 ### Introducción: ¿Cuál es el mejor servidor de roleplay en España? <a href="#introduccin-cul-es-el-mejor-servidor-de-roleplay-e" id="introduccin-cul-es-el-mejor-servidor-de-roleplay-e"></a>
 

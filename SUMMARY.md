@@ -15,8 +15,8 @@
 
 ## Utilidades
 
-* [Cómo poner mods gráficos en FiveM: Guía completa 2025 paso a paso](utilidades/como-poner-mods-graficos-en-fivem-guia-completa-2025-paso-a-paso.md)
-* [¿Cuál es el mejor servidor de roleplay FiveM en España? Descubre Plomolife en 2025](utilidades/cual-es-el-mejor-servidor-de-roleplay-fivem-en-espana-descubre-plomolife-en-2025.md)
+* [👓 Cómo poner mods gráficos en FiveM: Guía completa 2025 paso a paso](utilidades/como-poner-mods-graficos-en-fivem-guia-completa-2025-paso-a-paso.md)
+* [🌟 ¿Cuál es el mejor servidor de roleplay FiveM en España? Descubre Plomolife en 2025](utilidades/cual-es-el-mejor-servidor-de-roleplay-fivem-en-espana-descubre-plomolife-en-2025.md)
 
 ## REDES SOCIALES
 
