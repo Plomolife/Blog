@@ -9,7 +9,7 @@
 * [🔋 Guía de Roleplay en FiveM (2025): Conceptos Básicos, Normativa y Términos Esenciales](utilidades/guia-de-roleplay-en-fivem-2025-conceptos-basicos-normativa-y-terminos-esenciales.md)
 * [☁️ Comandos /me y /do en FiveM: Guía de Uso y Ejemplos Prácticos de Rol](utilidades/comandos-me-y-do-en-fivem-guia-de-uso-y-ejemplos-practicos-de-rol.md)
 * [⚙️ Ajustes Recomendados en FiveM (2025): Guía Definitiva de FPS y Estabilidad](utilidades/ajustes-recomendados-en-fivem-2025-guia-definitiva-de-fps-y-estabilidad.md)
-* [Cómo Descargar FiveM para GTA V (2025): Instalación Segura y Requisitos](utilidades/como-descargar-fivem-para-gta-v-2025-instalacion-segura-y-requisitos.md)
+* [🎮 Cómo Descargar FiveM para GTA V (2025): Instalación Segura y Requisitos](utilidades/como-descargar-fivem-para-gta-v-2025-instalacion-segura-y-requisitos.md)
 
 ## ERRORES COMUNES
 

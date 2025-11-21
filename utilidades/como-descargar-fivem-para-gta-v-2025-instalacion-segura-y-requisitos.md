@@ -5,7 +5,7 @@ description: >-
   descargando desde el sitio oficial.
 ---
 
-# Cómo Descargar FiveM para GTA V (2025): Instalación Segura y Requisitos
+# 🎮 Cómo Descargar FiveM para GTA V (2025): Instalación Segura y Requisitos
 
 ## Cómo Descargar FiveM: Tu Puerta de Entrada al Roleplay <a href="#cmo-descargar-fivem-tu-puerta-de-entrada-al-rolepl" id="cmo-descargar-fivem-tu-puerta-de-entrada-al-rolepl"></a>
 
