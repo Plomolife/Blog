@@ -8,7 +8,7 @@ description: >-
 
 👋🎉 **¡Bienvenidos al blog oficial de Plomolife!**
 
-Nuestro objetivo principal es proporcionarte todas las herramientas, información y guías que necesitas para tener una experiencia de juego inigualable en nuestro servidor. Esta guía ha sido cuidadosamente organizada en diferentes categorías para facilitar tu navegación y acceso a la información que necesitas.
+Nuestro objetivo principal es proporcionarte todas las herramientas, información y guías que necesitas para tener una experiencia de roleplay inigualable en nuestro servidor. Esta guía ha sido cuidadosamente organizada en diferentes categorías para facilitar tu navegación y acceso a la información que necesitas.
 
 Algunas de las características clave de nuestro Blog que te ayudarán a navegar a través de esta guía son:
 
