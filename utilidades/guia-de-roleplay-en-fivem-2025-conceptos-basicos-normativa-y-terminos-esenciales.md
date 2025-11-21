@@ -5,7 +5,7 @@ description: >-
   reportes y baneos.
 ---
 
-# 🕎 Guía de Roleplay en FiveM (2025): Conceptos Básicos, Normativa y Términos Esenciales
+# 🔋 Guía de Roleplay en FiveM (2025): Conceptos Básicos, Normativa y Términos Esenciales
 
 ## Guía de Roleplay en FiveM: Domina los Conceptos Básicos <a href="#gua-de-roleplay-en-fivem-domina-los-conceptos-bsic" id="gua-de-roleplay-en-fivem-domina-los-conceptos-bsic"></a>
 

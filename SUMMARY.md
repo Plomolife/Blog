@@ -1,13 +1,13 @@
 # Table of contents
 
 * [🕹️ Plomolife](README.md)
-* [🖥️ Conceptos básicos](conceptos-basicos.md)
 
 ## Utilidades
 
 * [👓 Cómo poner mods gráficos en FiveM: Guía completa 2025 paso a paso](utilidades/como-poner-mods-graficos-en-fivem-guia-completa-2025-paso-a-paso.md)
 * [🌟 ¿Cuál es el mejor servidor de roleplay FiveM en España? Descubre Plomolife en 2025](utilidades/cual-es-el-mejor-servidor-de-roleplay-fivem-en-espana-descubre-plomolife-en-2025.md)
-* [🕎 Guía de Roleplay en FiveM (2025): Conceptos Básicos, Normativa y Términos Esenciales](utilidades/guia-de-roleplay-en-fivem-2025-conceptos-basicos-normativa-y-terminos-esenciales.md)
+* [🔋 Guía de Roleplay en FiveM (2025): Conceptos Básicos, Normativa y Términos Esenciales](utilidades/guia-de-roleplay-en-fivem-2025-conceptos-basicos-normativa-y-terminos-esenciales.md)
+* [Page](utilidades/page.md)
 
 ## ERRORES COMUNES
 
