@@ -5,7 +5,7 @@
 
 ## ERRORES COMUNES
 
-* [🗑️ ¿Cómo borrar cache?](errores-comunes/cache.md)
+* [🗑️ ¿Cómo borrar cache en FiveM?](errores-comunes/cache.md)
 * [🛣️ Distancia de renderizado](errores-comunes/distancia-de-renderizado.md)
 * [⚙️ Ajustes recomendados](errores-comunes/ajustes-recomendados.md)
 * [🔑 Vincular FiveM con Steam](errores-comunes/vincular-fivem-con-steam.md)
