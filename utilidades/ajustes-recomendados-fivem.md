@@ -18,7 +18,7 @@ Tener una configuración incorrecta es la causa número uno de lag, "stuttering"
 Muchos jugadores cometen el error de poner todo en "Bajo" y arruinar su experiencia, o todo en "Ultra" y jugar a 30 FPS. Este es el "punto dulce" (sweet spot) para la mayoría de PCs modernos:
 
 * **DirectX Version:** **DirectX 11**. (Es el estándar más estable para FiveM en 2025).
-* **Texture Quality (Calidad de Texturas):** **Normal**. A menos que tengas una gráfica de gama muy alta (+10GB VRAM), déjalo en normal. Las texturas "High" en servidores con muchos coches modded saturarán tu memoria rápidamente.
+* **Texture Quality (Calidad de Texturas):** **Normal**. A menos que tengas una gráfica de gama muy alta (+10GB VRAM), déjalo en normal. Las texturas "High" en servidores con muchos coches addons saturarán tu memoria rápidamente.
 * **Shader Quality (Calidad de Shaders):** **High (Alto)**. Afecta poco al rendimiento pero mejora mucho cómo se ve el juego (iluminación, colores). Si tienes FPS muy bajos, bájalo a Normal.
 * **Shadow Quality (Calidad de Sombras):** **Normal**. Las sombras son el mayor enemigo de los FPS. En "Normal" se ven decentes y ganas un rendimiento masivo.
 * **Reflection Quality (Calidad de Reflejos):** **Normal**. Los reflejos en "Ultra" o "Very High" consumen muchísima GPU, especialmente con coches personalizados brillantes.
