@@ -35,7 +35,7 @@ Una vez que Windows está listo, es hora de ajustar el juego. FiveM hereda el me
 
 1. Dentro del servidor, pulsa `ESC` para abrir el menú de pausa.
 2. Navega hasta la pestaña **Configuración** (Settings).
-3. Selecciona **Chat de Voz** (Voice Chat) en el menú lateral izquierdo.youtube+1​
+3. Selecciona **Chat de Voz** (Voice Chat) en el menú lateral izquierdo.​
 
 Aquí debes verificar los siguientes parámetros clave para garantizar que te escuchen:
 
@@ -48,7 +48,7 @@ Aquí debes verificar los siguientes parámetros clave para garantizar que te es
 
 Existen dos formas de hablar en Roleplay:
 
-* **Pulsar para hablar (Push to Talk):** Es la opción recomendada para Roleplay serio. Solo transmites cuando presionas una tecla (usualmente `N`). Evita que se escuche ruido de fondo o tu respiración.youtube​
+* **Pulsar para hablar (Push to Talk):** Es la opción recomendada para Roleplay serio. Solo transmites cuando presionas una tecla (usualmente `N`). Evita que se escuche ruido de fondo o tu respiración.​
 * **Activación por voz:** El micrófono se abre automáticamente cuando detectas sonido. Si usas esta opción, ajusta bien la **Sensibilidad del Micrófono** para que no se active con el ruido del teclado.
 
 ### 3. Teclas y Rangos de Voz en Servidores Roleplay <a href="#id-3-teclas-y-rangos-de-voz-en-servidores-roleplay" id="id-3-teclas-y-rangos-de-voz-en-servidores-roleplay"></a>
@@ -65,7 +65,7 @@ Los rangos determinan qué tan lejos viaja tu voz. Por lo general, verás un ico
 
 ### ¿Cuál es la tecla para hablar en FiveM?
 
-Por defecto, la tecla para **Pulsar para Hablar** es la **N**. Sin embargo, si deseas cambiarla, debes ir a:youtube​\
+Por defecto, la tecla para **Pulsar para Hablar** es la **N**. Sin embargo, si deseas cambiarla, debes ir a:​\
 `Configuración > Asignación de Teclas > GTA Online > Pulsar para hablar`.
 
 Para cambiar el **Rango de Voz**, la tecla suele variar según el servidor (comúnmente `Z`, `H` o `~`), por lo que te recomendamos consultar el canal de ayuda de tu servidor o usar el comando `/keys` si está disponible.
