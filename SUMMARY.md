@@ -11,6 +11,7 @@
 * [⚙️ Ajustes Recomendados en FiveM (2025): Guía Definitiva de FPS y Estabilidad](utilidades/ajustes-recomendados-fivem.md)
 * [🎮 Cómo Descargar FiveM para GTA V (2025): Instalación Segura y Requisitos](utilidades/descargar-fivem.md)
 * [🎙️ Cómo Configurar el Chat de Voz y Micrófono en FiveM: Guía Definitiva 2025](utilidades/chat-voz-microfono-fivem.md)
+* [🌤️ Cómo Instalar un Citizen en FiveM: Guía para Mejorar FPS y Visuales (2025)](utilidades/como-instalar-un-citizen-en-fivem-guia-para-mejorar-fps-y-visuales-2025.md)
 
 ## ERRORES COMUNES
 
