@@ -11,8 +11,8 @@
 * [⚙️ Ajustes Recomendados en FiveM (2025): Guía Definitiva de FPS y Estabilidad](utilidades/ajustes-recomendados-fivem.md)
 * [🎮 Cómo Descargar FiveM para GTA V (2025): Instalación Segura y Requisitos](utilidades/descargar-fivem.md)
 * [🎙️ Cómo Configurar el Chat de Voz y Micrófono en FiveM: Guía Definitiva 2025](utilidades/chat-voz-microfono-fivem.md)
-* [🌤️ Cómo Instalar un Citizen en FiveM: Guía para Mejorar FPS y Visuales (2025)](utilidades/como-instalar-un-citizen-en-fivem-guia-para-mejorar-fps-y-visuales-2025.md)
-* [📺 Guía Definitiva de Render Resolution y Resolución en FiveM: Optimiza tus FPS y Calidad Visual](utilidades/guia-definitiva-de-render-resolution-y-resolucion-en-fivem-optimiza-tus-fps-y-calidad-visual.md)
+* [🌤️ Cómo Instalar un Citizen en FiveM: Guía para Mejorar FPS y Visuales (2025)](utilidades/instalar-citizen-fivem.md)
+* [📺 Guía Definitiva de Render Resolution y Resolución en FiveM: Optimiza tus FPS y Calidad Visual](utilidades/render-resolucion-fivem.md)
 
 ## ERRORES COMUNES
 
@@ -20,11 +20,11 @@
 * [🛣️ Extended Texture Budget en FiveM: Qué es y Cómo Configurarlo para Evitar Pérdida de Texturas (2025)](errores-comunes/extended-budget-texture.md)
 * [🔑 Cómo Vincular FiveM con Steam (2025): Guía y Solución de Errores "Steam Identifier"](errores-comunes/vincular-fivem-steam.md)
 * [🔗 Cómo Vincular Discord con FiveM (2025): Guía para Whitelists y Roles](errores-comunes/vincular-discord-fivem.md)
-* [🐌 Cómo Vincular FiveM con Cfx.re: Guía Rápida 2025 y Beneficios](errores-comunes/como-vincular-fivem-con-cfx.re-guia-rapida-2025-y-beneficios.md)
+* [🐌 Cómo Vincular FiveM con Cfx.re: Guía Rápida 2025 y Beneficios](errores-comunes/vincular-fivem-cfx.md)
 * [📡 Errores de Ingreso en FiveM (2025): Soluciones para "Connection Failed" y Crasheos](errores-comunes/errores-ingreso-fivem.md)
 * [🌐 Solución a Errores de Desconexión en FiveM (2025): Caídas, Timeout y Network Interrupt](errores-comunes/errores-desconexion-fivem.md)
 * [♻️ Cómo Solucionar Crasheos en FiveM: Guía Definitiva para Evitar Cierres Inesperados (2025)](errores-comunes/solucionar-crasheos-fivem.md)
-* [🎛️ Cómo Verificar la Integridad de GTA V: Soluciona Errores y Crashes sin Reinstalar](errores-comunes/como-verificar-la-integridad-de-gta-v-soluciona-errores-y-crashes-sin-reinstalar.md)
+* [🎛️ Cómo Verificar la Integridad de GTA V: Soluciona Errores y Crashes sin Reinstalar](errores-comunes/verificar-integridad-gtav.md)
 
 ## REDES SOCIALES
 
