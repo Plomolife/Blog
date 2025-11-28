@@ -20,6 +20,7 @@
 * [🔗 Cómo Vincular Discord con FiveM (2025): Guía para Whitelists y Roles](errores-comunes/vincular-discord-fivem.md)
 * [📡 Errores de Ingreso en FiveM (2025): Soluciones para "Connection Failed" y Crasheos](errores-comunes/errores-ingreso-fivem.md)
 * [🌐 Solución a Errores de Desconexión en FiveM (2025): Caídas, Timeout y Network Interrupt](errores-comunes/errores-desconexion-fivem.md)
+* [♻️ Cómo Solucionar Crasheos en FiveM: Guía Definitiva para Evitar Cierres Inesperados (2025)](errores-comunes/como-solucionar-crasheos-en-fivem-guia-definitiva-para-evitar-cierres-inesperados-2025.md)
 
 ## REDES SOCIALES
 
