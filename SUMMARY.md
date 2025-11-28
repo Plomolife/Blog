@@ -20,6 +20,7 @@
 * [🛣️ Extended Texture Budget en FiveM: Qué es y Cómo Configurarlo para Evitar Pérdida de Texturas (2025)](errores-comunes/extended-budget-texture.md)
 * [🔑 Cómo Vincular FiveM con Steam (2025): Guía y Solución de Errores "Steam Identifier"](errores-comunes/vincular-fivem-steam.md)
 * [🔗 Cómo Vincular Discord con FiveM (2025): Guía para Whitelists y Roles](errores-comunes/vincular-discord-fivem.md)
+* [🐌 Cómo Vincular FiveM con Cfx.re: Guía Rápida 2025 y Beneficios](errores-comunes/como-vincular-fivem-con-cfx.re-guia-rapida-2025-y-beneficios.md)
 * [📡 Errores de Ingreso en FiveM (2025): Soluciones para "Connection Failed" y Crasheos](errores-comunes/errores-ingreso-fivem.md)
 * [🌐 Solución a Errores de Desconexión en FiveM (2025): Caídas, Timeout y Network Interrupt](errores-comunes/errores-desconexion-fivem.md)
 * [♻️ Cómo Solucionar Crasheos en FiveM: Guía Definitiva para Evitar Cierres Inesperados (2025)](errores-comunes/solucionar-crasheos-fivem.md)
