@@ -10,6 +10,7 @@
 * [☁️ Comandos /me y /do en FiveM: Guía de Uso y Ejemplos Prácticos de Rol](utilidades/comandos-me-do-fivem.md)
 * [⚙️ Ajustes Recomendados en FiveM (2025): Guía Definitiva de FPS y Estabilidad](utilidades/ajustes-recomendados-fivem.md)
 * [🎮 Cómo Descargar FiveM para GTA V (2025): Instalación Segura y Requisitos](utilidades/descargar-fivem.md)
+* [🎙️ Cómo Configurar el Chat de Voz y Micrófono en FiveM: Guía Definitiva 2025](utilidades/como-configurar-el-chat-de-voz-y-microfono-en-fivem-guia-definitiva-2025.md)
 
 ## ERRORES COMUNES
 
