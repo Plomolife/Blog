@@ -12,7 +12,7 @@
 * [🎮 Cómo Descargar FiveM para GTA V (2025): Instalación Segura y Requisitos](utilidades/descargar-fivem.md)
 * [🎙️ Cómo Configurar el Chat de Voz y Micrófono en FiveM: Guía Definitiva 2025](utilidades/chat-voz-microfono-fivem.md)
 * [🌤️ Cómo Instalar un Citizen en FiveM: Guía para Mejorar FPS y Visuales (2025)](utilidades/como-instalar-un-citizen-en-fivem-guia-para-mejorar-fps-y-visuales-2025.md)
-* [🎛️ Cómo Verificar la Integridad de GTA V: Soluciona Errores y Crashes sin Reinstalar](utilidades/como-verificar-la-integridad-de-gta-v-soluciona-errores-y-crashes-sin-reinstalar.md)
+* [📺 Guía Definitiva de Render Resolution y Resolución en FiveM: Optimiza tus FPS y Calidad Visual](utilidades/guia-definitiva-de-render-resolution-y-resolucion-en-fivem-optimiza-tus-fps-y-calidad-visual.md)
 
 ## ERRORES COMUNES
 
@@ -24,6 +24,7 @@
 * [📡 Errores de Ingreso en FiveM (2025): Soluciones para "Connection Failed" y Crasheos](errores-comunes/errores-ingreso-fivem.md)
 * [🌐 Solución a Errores de Desconexión en FiveM (2025): Caídas, Timeout y Network Interrupt](errores-comunes/errores-desconexion-fivem.md)
 * [♻️ Cómo Solucionar Crasheos en FiveM: Guía Definitiva para Evitar Cierres Inesperados (2025)](errores-comunes/solucionar-crasheos-fivem.md)
+* [🎛️ Cómo Verificar la Integridad de GTA V: Soluciona Errores y Crashes sin Reinstalar](errores-comunes/como-verificar-la-integridad-de-gta-v-soluciona-errores-y-crashes-sin-reinstalar.md)
 
 ## REDES SOCIALES
 
