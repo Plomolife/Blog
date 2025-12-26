@@ -25,7 +25,7 @@
 * [🌐 Solución a Errores de Desconexión en FiveM (2025): Caídas, Timeout y Network Interrupt](errores-comunes/errores-desconexion-fivem.md)
 * [♻️ Cómo Solucionar Crasheos en FiveM: Guía Definitiva para Evitar Cierres Inesperados (2025)](errores-comunes/solucionar-crasheos-fivem.md)
 * [🎛️ Cómo Verificar la Integridad de GTA V: Soluciona Errores y Crashes sin Reinstalar](errores-comunes/verificar-integridad-gtav.md)
-* [Cómo Solucionar el Error "Your account is already being used" en FiveM (Guía Definitiva 2025)](errores-comunes/como-solucionar-el-error-your-account-is-already-being-used-en-fivem-guia-definitiva-2025.md)
+* [👨‍🚀 Cómo Solucionar el Error "Your account is already being used" en FiveM (Guía Definitiva 2025)](errores-comunes/account-already-being-used-fivem.md)
 
 ## REDES SOCIALES
 

@@ -5,7 +5,7 @@ description: >-
   desconectar sesiones fantasma y volver a jugar en mi
 ---
 
-# Cómo Solucionar el Error "Your account is already being used" en FiveM (Guía Definitiva 2025)
+# 👨‍🚀 Cómo Solucionar el Error "Your account is already being used" en FiveM (Guía Definitiva 2025)
 
 ¿Estás intentando unirte a tu servidor de roleplay favorito y te encuentras con una pantalla de bloqueo que dice **"Your account is already being used"**? No hay nada más frustrante que tener tiempo libre para jugar y que la tecnología se interponga en tu camino.
 
