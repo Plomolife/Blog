@@ -5,7 +5,7 @@ description: >-
   rendimiento y domina el PvP hoy mismo.
 ---
 
-# 🌤️ Cómo Instalar un Citizen en FiveM: Guía para Mejorar FPS y Visuales (2025)
+# 🌤️ Cómo Instalar un Citizen en FiveM: Guía para Mejorar FPS y Visuales (2026)
 
 ### Introducción: ¿Por qué cambiar el Citizen en FiveM? <a href="#introduccin-por-qu-cambiar-el-citizen-en-fivem" id="introduccin-por-qu-cambiar-el-citizen-en-fivem"></a>
 
@@ -69,7 +69,7 @@ Cada vez que cambias archivos estructurales del juego, es muy recomendable limpi
 
 Esto suele ocurrir si el Citizen que descargaste es para una versión muy antigua de FiveM.
 
-* **Solución:** Borra el Citizen nuevo y restaura tu copia de seguridad original. Busca un pack más actual (de 2024 o 2025).
+* **Solución:** Borra el Citizen nuevo y restaura tu copia de seguridad original. Busca un pack más actual (de 2025 o 2026).
 
 ### Texturas parpadeantes o cielo roto
 
