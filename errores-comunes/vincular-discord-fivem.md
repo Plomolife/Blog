@@ -5,7 +5,7 @@ description: >-
   error "Discord identifier not found".
 ---
 
-# 🔗 Cómo Vincular Discord con FiveM (2025): Guía para Whitelists y Roles
+# 🔗 Cómo Vincular Discord con FiveM (2026): Guía para Whitelists y Roles
 
 ## Cómo Vincular Discord con FiveM: Guía Definitiva <a href="#cmo-vincular-discord-con-fivem-gua-definitiva-2025" id="cmo-vincular-discord-con-fivem-gua-definitiva-2025"></a>
 
@@ -48,7 +48,7 @@ Si es la primera vez que lo haces, verás una pantalla en Discord preguntando: _
 
 ### Solución de problemas frecuentes <a href="#solucin-de-problemas-frecuentes" id="solucin-de-problemas-frecuentes"></a>
 
-Si has seguido los pasos y el servidor te sigue rechazando, prueba estas soluciones comprobadas para 2025.
+Si has seguido los pasos y el servidor te sigue rechazando, prueba estas soluciones comprobadas para 2026.
 
 ### Solución A: Desactivar "Ejecutar como administrador" en Discord
 
