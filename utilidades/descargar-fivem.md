@@ -1,11 +1,11 @@
 ---
 description: >-
   ¿Quieres jugar GTA Roleplay? Guía paso a paso para descargar e instalar FiveM
-  gratis en 2025. Conoce los requisitos oficiales y cómo evitar virus
+  gratis en 2026. Conoce los requisitos oficiales y cómo evitar virus
   descargando desde el sitio oficial.
 ---
 
-# 🎮 Cómo Descargar FiveM para GTA V (2025): Instalación Segura y Requisitos
+# 🎮 Cómo Descargar FiveM para GTA V (2026): Instalación Segura y Requisitos
 
 ## Cómo Descargar FiveM: Tu Puerta de Entrada al Roleplay <a href="#cmo-descargar-fivem-tu-puerta-de-entrada-al-rolepl" id="cmo-descargar-fivem-tu-puerta-de-entrada-al-rolepl"></a>
 

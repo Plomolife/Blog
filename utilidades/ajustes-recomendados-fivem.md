@@ -5,19 +5,19 @@ description: >-
   paso a paso para PCs de gama baja y alta.
 ---
 
-# ⚙️ Ajustes Recomendados en FiveM (2025): Guía Definitiva de FPS y Estabilidad
+# ⚙️ Ajustes Recomendados en FiveM (2026): Guía Definitiva de FPS y Estabilidad
 
 ## Ajustes Recomendados en FiveM: Maximiza tus FPS y Estabilidad <a href="#ajustes-recomendados-en-fivem-maximiza-tus-fps-y-e" id="ajustes-recomendados-en-fivem-maximiza-tus-fps-y-e"></a>
 
 Configurar FiveM no es lo mismo que configurar GTA V. En el modo historia, tu PC solo carga lo que Rockstar optimizó hace años, pero en FiveM, tu ordenador debe procesar scripts en tiempo real, coches con texturas 4K y mapas personalizados que consumen recursos vorazmente.
 
-Tener una configuración incorrecta es la causa número uno de lag, "stuttering" (microcortes) y crasheos inesperados. En esta guía, te mostramos los ajustes recomendados para 2025, diseñados para darte la mayor ventaja competitiva en tiroteos y la mejor experiencia en roles sociales.
+Tener una configuración incorrecta es la causa número uno de lag, "stuttering" (microcortes) y crasheos inesperados. En esta guía, te mostramos los ajustes recomendados para 2026, diseñados para darte la mayor ventaja competitiva en tiroteos y la mejor experiencia en roles sociales.
 
 ### Configuración Gráfica Básica (El Equilibrio Perfecto) <a href="#configuracin-grfica-bsica-el-equilibrio-perfecto" id="configuracin-grfica-bsica-el-equilibrio-perfecto"></a>
 
 Muchos jugadores cometen el error de poner todo en "Bajo" y arruinar su experiencia, o todo en "Ultra" y jugar a 30 FPS. Este es el "punto dulce" (sweet spot) para la mayoría de PCs modernos:
 
-* **DirectX Version:** **DirectX 11**. (Es el estándar más estable para FiveM en 2025).
+* **DirectX Version:** **DirectX 11**. (Es el estándar más estable para FiveM en 2026).
 * **Texture Quality (Calidad de Texturas):** **Normal**. A menos que tengas una gráfica de gama muy alta (+10GB VRAM), déjalo en normal. Las texturas "High" en servidores con muchos coches addons saturarán tu memoria rápidamente.
 * **Shader Quality (Calidad de Shaders):** **High (Alto)**. Afecta poco al rendimiento pero mejora mucho cómo se ve el juego (iluminación, colores). Si tienes FPS muy bajos, bájalo a Normal.
 * **Shadow Quality (Calidad de Sombras):** **Normal**. Las sombras son el mayor enemigo de los FPS. En "Normal" se ven decentes y ganas un rendimiento masivo.
