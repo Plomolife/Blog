@@ -31,7 +31,7 @@
 
 * [Instagram](https://www.instagram.com/plomolife/)
 * [YouTube](https://www.youtube.com/@plomolife)
-* [Discord](https://discord.com/invite/plomolife)
+* [Discord](https://discord.gg/plomolife-970319356988891227)
 * [X](https://x.com/plomolife)
 * [TikTok](https://www.tiktok.com/@plomolife)
 * [Threads](https://www.threads.com/@plomolife)
